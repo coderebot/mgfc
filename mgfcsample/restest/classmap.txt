@@ -1,0 +1,15 @@
+Static static
+Button button
+msctls_updown32 SpinBox
+msctls_progress32 progressbar
+msctls_trackbar32 trackbar
+SysListView32 ListView
+SysTabControl32
+SysAnimate32 Animation
+SysMonthCal32 MonthCalendar
+SysIPAddress32
+SysTreeView32 TreeView*TVS_NOTIFY
+Edit edit
+ScrollBar scrollbar 
+ListBox ListBox
+ComboBox combobox
