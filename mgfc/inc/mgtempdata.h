@@ -1,0 +1,6 @@
+#ifndef MG_TEMPLATE_DATA_STRUCT_H
+#define MG_TEMPLATE_DATA_STRUCT_H
+
+
+
+#endif

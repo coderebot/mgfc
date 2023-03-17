@@ -1,0 +1,28 @@
+MGFC is the MiniGUI Foundation Classes, which is the C++ classess base on MiniGUI API.
+
+If you want to user MGFC, firtly, Get the MiniGUI(1.6 or latter). please visit:
+      http://www.minigui.org
+      http://www.minigui.com/download/cindex.shtml
+
+the MGFC support QVFB only now.(if you want to use it in diffrent plateform,please change the Makefile. or you can append MGFC file's into you project). 
+
+Get QVFB, you can visit:
+     http://www.minigui.com/download/cdevtool.shtml
+
+After download and install MiniGUI & QVFB,you can Get and use MGFC.
+Get MGFC from :
+     http://www.mgfc.org.cn/download.htm
+
+you can get a tar.gz packet named like: mgfcx.x.tar.gz.
+
+to install the MGFC:
+  1.   tar zxf mgfcx.x.tar.gz
+  2.   cd mgfc/mgfc
+  3.   make
+  4.   cd ..
+  5.   make
+
+The mgfc/mgfc is the MGFC source directory. and the mgfc/smaples is the MGFC smaples.
+
+If you find any bug or have any advices, please e-mail me: mgfc888@sohu.com, mgfc666@sina.com.  
+
